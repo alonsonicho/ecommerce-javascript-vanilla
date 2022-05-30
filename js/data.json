@@ -1,0 +1,33 @@
+[
+  { "id": 1, "nombre": "Polera Black", "cantidad": 1, "precio": 120, "talle": "L", "img": "img/1.jpg" },
+
+  { "id": 2, "nombre": "Polera Black", "cantidad": 1, "precio": 110, "talle": "L", "img": "img/2.jpg" },
+
+  { "id": 3, "nombre": "Polera Blue", "cantidad": 1, "precio": 120, "talle": "M", "img": "img/3.jpg" },
+
+  { "id": 4, "nombre": "Polera Black", "cantidad": 1, "precio": 140, "talle": "M", "img": "img/4.jpg" },
+
+  { "id": 5, "nombre": "Polera Black", "cantidad": 1, "precio": 120, "talle": "S", "img": "img/5.jpg" },
+
+  { "id": 6, "nombre": "Polera Black", "cantidad": 1, "precio": 150, "talle": "S", "img": "img/6.jpg" },
+
+  { "id": 7, "nombre": "Polera Black", "cantidad": 1, "precio": 50, "talle": "L", "img": "img/7.jpg" },
+
+  { "id": 8, "nombre": "Polera Black", "cantidad": 1, "precio": 50, "talle": "L", "img": "img/8.jpg" },
+
+  { "id": 9, "nombre": "Polera Black", "cantidad": 1, "precio": 50, "talle": "M", "img": "img/9.jpg" },
+
+  { "id": 10, "nombre": "Polera Black", "cantidad": 1, "precio": 70, "talle": "M", "img": "img/10.jpg" },
+
+  { "id": 11, "nombre": "Polera White", "cantidad": 1, "precio": 70, "talle": "S", "img": "img/11.jpg" },
+
+  { "id": 12, "nombre": "Polera White", "cantidad": 1, "precio": 70, "talle": "S", "img": "img/12.jpg" },
+
+  { "id": 13, "nombre": "Polera Black", "cantidad": 1, "precio": 90, "talle": "L", "img": "img/13.jpg" },
+
+  { "id": 14, "nombre": "Polera Black", "cantidad": 1, "precio": 140, "talle": "S", "img": "img/14.jpg" },
+
+  { "id": 15, "nombre": "Polera Yellow", "cantidad": 1, "precio": 70, "talle": "L", "img": "img/15.jpg" },
+
+  { "id": 16, "nombre": "Polera Green", "cantidad": 1, "precio": 100, "talle": "L", "img": "img/16.jpg" }
+]
