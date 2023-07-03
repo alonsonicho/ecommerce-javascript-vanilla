@@ -93,7 +93,11 @@ const agregarAlCarrito = (prodId) => {
     actualizarCarrito()
 }
 
-
+// const sumarCantidad = (id) => {
+//     carrito.map(prod => {
+//         console.log(prod.cantidad++);
+//     })
+// }
 
 const eliminarDelCarrito = (prodId) => {
     const item = carrito.find((prod) => prod.id === prodId)
